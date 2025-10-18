@@ -39,12 +39,19 @@
 ## Implementations
 
 - [📁 naive/](./naive/) - Naive/Brute Force Algorithm
-- [📁 kmp/](./kmp/) - KMP (Knuth-Morris-Pratt) Algorithm  
-- [📁 rabin_karp/](./rabin_karp/) - Rabin-Karp Algorithm
-- [📁 z_algorithm/](./z_algorithm/) - Z Algorithm
+- [📁 kmp/](./kmp/) - KMP (Knuth-Morris-Pratt) Algorithm   https://www.geeksforgeeks.org/dsa/kmp-algorithm-for-pattern-searching/
+- [📁 rabin_karp/](./rabin_karp/) - Rabin-Karp Algorithm https://www.geeksforgeeks.org/dsa/rabin-karp-algorithm-for-pattern-searching/
+- [📁 z_algorithm/](./z_algorithm/) - Z Algorithmhttps://www.geeksforgeeks.org/dsa/z-algorithm-linear-time-pattern-searching-algorithm/
 - [📁 builtin/](./builtin/) - Built-in String Functions
 
+TASK
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
-LINK https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/6617473/optimal-kmp-rabin-karp-z-algorithm-solutions-with-detailed-inline-comments-and-break-down/
+
+LINK TO SOLUTIONS on leetcode (with indus videos)
+
+
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/6617473/optimal-kmp-rabin-karp-z-algorithm-solutions-with-detailed-inline-comments-and-break-down/
+
+
 
 
